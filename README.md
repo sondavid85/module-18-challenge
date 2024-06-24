@@ -2,8 +2,8 @@
   ![Github license](https://img.shields.io/badge/license--blue.svg)
   ## Description
   A fully functional back-end api for a social network. Can be used to create users, thoughts, reactions to thoughts, and track friends lists.
-  ## Deployed Application URL
-  n/a
+  ## Video URL
+  [demo video](https://drive.google.com/file/d/1S22eiyKgvR47DA1VvrckcUWpgsHRyJs1/view?usp=sharing)
   ## Screenshot
   ![alt-text](./dist/screenshot.jpeg)
   ## Table of Contents
